@@ -1,0 +1,126 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.mein{
+    text-align: center;
+    width: 1200px;
+    height: 700px;
+    margin: auto;
+    max-width: 100%;
+}
+ 
+   .tb {
+       height: 39px;
+       width: 1280px;
+       background:rgb(68, 93, 113);
+       color: aliceblue;
+       padding-top: 13px;
+       border-top: 4px solid rgb(8, 135, 185);
+       display: inline-block;
+       text-align: center;
+       margin-top: -33px;
+       
+    
+       /* box-shadow: rgb(214, 135, 61) 5px; */
+   }
+.pr{
+    color: rgb(52, 144, 224);
+}
+.tr{
+    text-align: center;
+    background:rgb( 136, 198, 174);
+    height: 150px;
+    width: 344px;
+    display: inline-block;
+    border: 3px solid rgb(91, 82, 82);
+    box-shadow: 2px 3px 10px 0px rgba(13, 0, 0, 0.5);
+    padding: 20px 30px;
+}
+.mn{
+   margin-top: 40px;
+}
+border-top: 4px solid rgb(8, 135, 185);
+   .ic{
+       background: #fff;
+   }
+   .t1.t1 {
+	background: rgb(236, 138, 34);
+	margin-top: 29px;
+	width: 573px;
+	height: 119px;
+	text-align: left;
+	padding: 20px 30px;
+	box-shadow: 0px 3px 3px 3px rgb(108, 175, 234);
+	border-radius: 0px 41px 40px 0px;;
+	margin-left: 26px;
+    border-left: 4px solid rgb(8, 135, 185);
+    padding-top: 22px;
+}
+   .t2{
+   background: rgb(88, 195, 160);
+       margin-top: -61px;
+       width: 570px;
+       height: 119px;
+       text-align: right;
+       box-shadow: 3px 3px 3px 0px rgba(121, 68, 151);
+       border-radius: 50px 0px 0px 50px;
+       margin-left: 320px;
+       border-right: 4px solid rgba(121, 68, 151);
+       padding: 35px 20px;
+       padding-top: 22px;
+}
+ 
+       .ic{
+           background: #fff;
+       }
+        
+       .t3 {
+        background: rgb(218, 79, 61);
+        margin-top: -80px;
+        width: 335px;
+        height: 188px;
+        text-align: center;
+        padding-top: 60px;
+        box-shadow: 3px 3px 3px 0px rgb(217, 122, 39);
+        border-radius: 50% 50% 0px 0px;
+        margin-left: 176px;
+        border-top: 4px solid rgb(253, 182, 12);
+    }
+        .div {
+            margin-top: 21px;
+        }
+        .div1{
+            width: 150px;
+            height: 100px;
+        }
+        .div1 span{
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            display: inline-block;
+            background: #0000008f;
+            display: inline-block;
+            margin: -108px 139px 215px -1px;
+
+        }
+        .div2 span{
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            display: inline-block;
+            background: #0000008f;
+            display: inline-block;
+            margin: -111px 509px 215px -1px;
+
+        }
+        .div3 span{
+            width: 6px;
+            height: 6px;
+            border-radius: 50%;
+            display: inline-block;
+            background: #0000008f;
+            display: inline-block;
+            margin: -151px 777px 215px -1px;
+
+        }
